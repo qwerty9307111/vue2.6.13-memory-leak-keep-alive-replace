@@ -1,5 +1,5 @@
 {
-  "name": "vue2.6.10-memory-leak-keep-alive",
+  "name": "vue2.6.13-memory-leak-keep-alive",
   "version": "0.1.0",
   "private": true,
   "scripts": {
